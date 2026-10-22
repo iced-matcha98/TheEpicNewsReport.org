@@ -20,3 +20,6 @@ The Epic News Report is the global leader in top tier stories and cutting edge c
         </body>
     </html>
 <a href="https://github.com/iced-matcha98/TheEpicNewsReport-s-HTML-for-your-reference.org">View the HTML behind this Article!</a>
+<h1>Check out more Local News Coverage</h1>
+<p>This is the description paragraph that provides more details about your content.</p>
+<a href="https://www.hudsonstarobserver.com/news/catholic-high-school-in-hudson-to-open-next-fall/article_237044ba-2658-45f7-b8b0-590df620cadb.html">Learn More About the New Catholic High School</a>
