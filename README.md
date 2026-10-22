@@ -6,15 +6,15 @@ The Epic News Report is the global leader in top tier stories and cutting edge c
             <pre style="white-space: pre-wrap; word-wrap: break-word;"><h1>The New Highschool</h1>
 <h2>The Why Behind It</h2>
 <p>
-    My town currently has one public high school, Hudson Senior High School. However, that is about to change. For the first time in <b>57 years</b>, a Catholic High School will be opened in my county. The purpose is to form students in the Catholic Faith. And the high school will be named Solanus Catholic High School, in honor of Blessed Solanus Casey.
+    My town currently has one public high school, Hudson Senior High School. <br>However, that is about to change. For the first time in <b>57 years</b>, a Catholic High School <br>will be opened in my county. The purpose is to form students in the Catholic Faith.<br>And the high school will be named Solanus Catholic High School,in honor of Blessed Solanus Casey.
 </p>
 <h2>Who are the teachers?</h2>
 <p>
-    A lot of parents want to know who the teachers will be before they send their kids to the school. Mrs. Joany said to a reporter, <q>I can't send my daughter here when I don't even know who the principal is!</q>Some parents share this opinion, but others are excited by the chance for children to attend a Catholic School.
+    A lot of parents want to know who the teachers will be before they send <br>their kids to the school. Mrs. Joany said to a reporter, <q>I can't send my <br>daughter here when I don't even know who the principal is!</q>Some parents <br>share this opinion, but others are excited by the chance for children to attend a Catholic School.
 </p>
 <h2>Who are the students?</h2>
 <p>
-    I don't personally know any of the new students, but the first class will only be nine students. Some students are likely from St. Patrick Catholic School, which is a k-8 program and the temporary location of the new highschool. With such a small class, students will get personalized attention from teachers.
+    I don't personally know any of the new students, but the first <br>class will only be nine students. Some students are likely from <br>St. Patrick Catholic School, which is a k-8 program and the temporary <br>location of the new high school. With such a small class, students will get <br>personalized attention from teachers.
 </p>
 </pre>
         </body>
