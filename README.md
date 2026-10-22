@@ -19,4 +19,4 @@ The Epic News Report is the global leader in top tier stories and cutting edge c
 </pre>
         </body>
     </html>
-
+<a href="https://github.com/iced-matcha98/TheEpicNewsReport-s-HTML-for-your-reference.org">View the HTML behind this Article!</a>
