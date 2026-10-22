@@ -23,4 +23,4 @@ The Epic News Report is the global leader in top tier stories and cutting edge c
 <h1>Check out more Local News Coverage</h1>
 <p>Thank you for reading The Epic News Report Article. If this article peaked your interest<br>We have provided a link to more Local coverage of the event.</p>
 
-<a href="https://www.hudsonstarobserver.com/news/catholic-high-school-in-hudson-to-open-next-fall/article_237044ba-2658-45f7-b8b0-590df620cadb.html" target="_blank">Click Here to Learn More About Solanus Catholic High School</a>
+<a href="https://www.hudsonstarobserver.com/news/catholic-high-school-in-hudson-to-open-next-fall/article_237044ba-2658-45f7-b8b0-590df620cadb.html"target="_blank">Click Here to Learn More About Solanus Catholic High School</a>
